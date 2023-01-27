@@ -177,7 +177,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     });
 
+
   }
+
 
   /**
    * Animation on scroll function and init
@@ -195,3 +197,5 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 });
+
+// new feature
