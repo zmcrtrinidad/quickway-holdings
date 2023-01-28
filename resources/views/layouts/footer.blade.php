@@ -18,7 +18,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-2 col-6 footer-links">
+                <div class="col-lg-3 col-6 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
                         <li><i class="bi bi-dash"></i> <a href="#">Home</a></li>
@@ -26,17 +26,6 @@
                         <li><i class="bi bi-dash"></i> <a href="#">Services</a></li>
                         <li><i class="bi bi-dash"></i> <a href="#">Terms of service</a></li>
                         <li><i class="bi bi-dash"></i> <a href="#">Privacy policy</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 col-6 footer-links">
-                    <h4>Our Services</h4>
-                    <ul>
-                        <li><i class="bi bi-dash"></i> <a href="#">Web Design</a></li>
-                        <li><i class="bi bi-dash"></i> <a href="#">Web Development</a></li>
-                        <li><i class="bi bi-dash"></i> <a href="#">Product Management</a></li>
-                        <li><i class="bi bi-dash"></i> <a href="#">Marketing</a></li>
-                        <li><i class="bi bi-dash"></i> <a href="#">Graphic Design</a></li>
                     </ul>
                 </div>
 
