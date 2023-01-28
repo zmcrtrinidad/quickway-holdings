@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title> @yield('title') | Quickway Holdings</title>
+    <title> @yield('title') | Quickway Holdings, Inc.</title>
 
     <!-- Favicons -->
     <link href="{{ asset('img/favicon.png') }}" rel="icon">

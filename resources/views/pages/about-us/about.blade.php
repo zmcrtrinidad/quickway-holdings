@@ -26,7 +26,7 @@
             </div>
             <div class="col-lg-8">
                 <div class="content ps-lg-5">
-                    <h3>Quickway Holdings</h3>
+                    <h3>Quickway Holdings, Inc.</h3>
                     <p>
                         Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
                         in voluptate
