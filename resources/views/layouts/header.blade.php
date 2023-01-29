@@ -3,7 +3,7 @@
 
         <a href="{{ route('home') }}" class="logo d-flex align-items-center">
             <!-- Uncomment the line below if you also wish to use an image logo -->
-            <!-- <img src="assets/img/logo.png" alt=""> -->
+            <img src="{{ asset('img/QHI.png') }}" class="img-fluid" alt="">
             <h1 class="d-flex align-items-center">Quickway Holdings, Inc.</h1>
         </a>
 
@@ -17,7 +17,7 @@
                             class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
                         <li><a href="{{ route('bod') }}">Our Board of Directors</a></li>
-                        <li><a href="{{ route('management') }}">Our Management</a></li>
+                        {{-- <li><a href="{{ route('management') }}">Our Management</a></li> --}}
                     </ul>
                 </li>
                 <li><a href="{{ route('corporate-governance') }}">Corporate Governance</a></li>
