@@ -34,7 +34,7 @@
                         <i class="bi bi-envelope flex-shrink-0"></i>
                         <div>
                             <h4>Email:</h4>
-                            <p>dmercado59@gmail.com</p>
+                            <p>info.quickwayholdings@email.com</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -42,7 +42,7 @@
                         <i class="bi bi-phone flex-shrink-0"></i>
                         <div>
                             <h4>Call:</h4>
-                            <p>09209195252</p>
+                            <p>+63</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -77,7 +77,10 @@
                     </form>
 
                 </div><!-- End Contact Form -->
-
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3861.7315299120596!2d121.01295970075607!3d14.557339231987442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s6%2FF%20Zeta%20II%20Annex%20Building%2C%20191%20Salcedo%20Street%2C%20Legaspi%20Village%2C%20Makati%20City!5e0!3m2!1sen!2sph!4v1675001642513!5m2!1sen!2sph"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
 
         </div>

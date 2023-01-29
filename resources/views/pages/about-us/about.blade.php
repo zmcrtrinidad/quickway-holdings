@@ -19,12 +19,12 @@
     <section id="about" class="about">
         <div class="container" data-aos="fade-up">
 
-            <div class="row gy-4" data-aos="fade-up">
+            {{-- <div class="row gy-4" data-aos="fade-up">
                 <div class="col-lg-4">
                     <img src="{{ asset('img/about.jpg') }}" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-8">
-                    <div class="content ps-lg-5">
+                    {{-- <div class="content ps-lg-5">
 
                         <h3>Quickway Holdings, Inc.</h3>
                         <p>
@@ -57,9 +57,9 @@
                         <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo
                             consequat.</li>
                     </ul> --}}
-                    </div>
-                </div>
-            </div>
+        </div> --}}
+        </div>
+        </div> --}}
 
         </div>
     </section><!-- End About Section -->
@@ -73,8 +73,8 @@
                     <div class="icon flex-shrink-0"><i class="bi bi-briefcase" style="color: #f57813;"></i></div>
                     <div>
                         <h4 class="title"><a href="#" class="stretched-link">Our Mission</a></h4>
-                        <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi
-                            sint occaecati cupiditate non provident</p>
+                        {{-- <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi
+                            sint occaecati cupiditate non provident</p> --}}
                     </div>
                 </div>
                 <!-- End Service Item -->
@@ -83,8 +83,8 @@
                     <div class="icon flex-shrink-0"><i class="bi bi-card-checklist" style="color: #15a04a;"></i></div>
                     <div>
                         <h4 class="title"><a href="#" class="stretched-link">Our Vision</a></h4>
-                        <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                            commodo consequat tarad limino ata</p>
+                        {{-- <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                            commodo consequat tarad limino ata</p> --}}
                     </div>
                 </div><!-- End Service Item -->
 
@@ -92,8 +92,8 @@
                     <div class="icon flex-shrink-0"><i class="bi bi-bar-chart" style="color: #d90769;"></i></div>
                     <div>
                         <h4 class="title"><a href="#" class="stretched-link">Values</a></h4>
-                        <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-                            eu fugiat nulla pariatur</p>
+                        {{-- <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+                            eu fugiat nulla pariatur</p> --}}
                     </div>
                 </div><!-- End Service Item -->
             </div>

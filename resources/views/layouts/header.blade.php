@@ -17,13 +17,15 @@
                             class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
                         <li><a href="{{ route('bod') }}">Our Board of Directors</a></li>
+                        <li><a href="{{ route('boc') }}">Our Group of Companies</a></li>
                         {{-- <li><a href="{{ route('management') }}">Our Management</a></li> --}}
                     </ul>
                 </li>
-                <li><a href="{{ route('corporate-governance') }}">Corporate Governance</a></li>
-                <li><a href="{{ route('investors') }}">Investor Relations</a></li>
+                {{-- <li><a href="{{ route('corporate-governance') }}">Corporate Governance</a></li>
+                <li><a href="{{ route('investors') }}">Investor Relations</a></li> --}}
                 <li><a href="{{ route('disclosure') }}">Disclosures</a></li>
-                <li><a href="{{ route('blogs') }}">Blogs</a></li>
+                {{-- CSR - Corporate Social Responsibilities --}}
+                <li><a href="{{ route('csr') }}">CSR</a></li>
                 <li><a href="{{ route('contact-us') }}">Contact</a></li>
             </ul>
         </nav><!-- .navbar -->

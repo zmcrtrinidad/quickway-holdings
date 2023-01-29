@@ -8,8 +8,8 @@
                     <a href="index.html" class="logo d-flex align-items-center">
                         <span>Quickway Holdings, Inc.</span>
                     </a>
-                    <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita
-                        valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+                    {{-- <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita
+                        valies darta donna mare fermentum iaculis eu non diam phasellus.</p> --}}
                     {{-- Social Media links --}}
                     {{-- <div class="social-links d-flex  mt-3">
                         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -36,8 +36,9 @@
                         6/F Zeta II Annex Building, <br>
                         191 Salcedo Street,<br>
                         Legaspi Village, Makati City <br><br>
-                        <strong>Phone:</strong> 09209195252<br>
-                        <strong>Email:</strong> dmercado59@gmail.com<br>
+                        <strong>Phone:</strong> +63 <br>
+                        {{-- gawan daw ng email  --}}
+                        <strong>Email:</strong> info.quickwayholdings@email.com<br>
                     </p>
 
                 </div>

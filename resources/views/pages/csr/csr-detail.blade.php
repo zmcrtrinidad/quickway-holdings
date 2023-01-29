@@ -1,11 +1,11 @@
 @extends('layouts.app')
-@section('title', 'Blogs Detail')
+@section('title', 'csr Detail')
 @section('content')
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('img/about-header.jpg') }}');">
         <div class="container position-relative d-flex flex-column align-items-center">
 
-            <h2>Blog Detail</h2>
+            <h2>CSR Detail</h2>
 
             {{-- NOTE: wala pang laman itago daw muna --}}
             {{-- <ol>

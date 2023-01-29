@@ -16,7 +16,7 @@
     <!-- ======= Blog Section ======= -->
     <section id="blog" class="blog">
         <div class="container" data-aos="fade-up">
-            <div class="row g-5">
+            {{-- <div class="row g-5">
                 <div class="" data-aos="fade-up" data-aos-delay="200">
                     <div class="row gy-5 posts-list">
                         <div class="col-lg-6">
@@ -25,7 +25,7 @@
                                     <img src="{{ asset('img/cta-bg.jpg') }}" alt="" class="img-fluid">
                                 </div>
                                 <h2 class="title">
-                                    <a href="{{ route('blogs-detail') }}">Dolorum optio tempore voluptas dignissimos cumque
+                                    <a href="{{ route('csr-detail') }}">Dolorum optio tempore voluptas dignissimos cumque
                                         fuga qui
                                         quibusdam quia</a>
                                 </h2>
@@ -38,7 +38,7 @@
                                 </div>
 
                                 <div class="read-more mt-auto align-self-end">
-                                    <a href="{{ route('blogs-detail') }}">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <a href="{{ route('csr-detail') }}">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
 
                             </article>
@@ -50,7 +50,7 @@
                                     <img src="{{ asset('img/cta-bg.jpg') }}" alt="" class="img-fluid">
                                 </div>
                                 <h2 class="title">
-                                    <a href="{{ route('blogs-detail') }}">Nisi magni odit consequatur autem nulla
+                                    <a href="{{ route('csr-detail') }}">Nisi magni odit consequatur autem nulla
                                         dolorem</a>
                                 </h2>
                                 <div class="content">
@@ -61,7 +61,7 @@
                                 </div>
 
                                 <div class="read-more mt-auto align-self-end">
-                                    <a href="{{ route('blogs-detail') }}">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <a href="{{ route('csr-detail') }}">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
 
                             </article>
@@ -74,8 +74,8 @@
                         <li><a href="#">3</a></li>
                     </ul>
                 </div><!-- End blog pagination --> --}}
-                </div>
-            </div>
+        </div>
+        </div> --}}
         </div>
     </section><!-- End Blog Section -->
 
