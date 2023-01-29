@@ -1039,7 +1039,7 @@ section {
     font-weight: 700;
     margin-bottom: 5px;
     font-size: 18px;
-    color: var(--color-secondary);
+    color: #fff
 }
 
 .team .team-member .member-info span {
