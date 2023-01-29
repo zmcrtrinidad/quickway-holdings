@@ -23,7 +23,7 @@
                     <div class="col-lg-6">
                         <article class="d-flex flex-column">
                             <div class="post-img">
-                                <img src="{{ asset('img/blog/blog-1.jpg') }}" alt="" class="img-fluid">
+                                <img src="{{ asset('img/cta-bg.jpg') }}" alt="" class="img-fluid">
                             </div>
                             <h2 class="title">
                                 <a href="{{ route('blogs-detail') }}">Dolorum optio tempore voluptas dignissimos cumque fuga qui
@@ -47,7 +47,7 @@
                     <div class="col-lg-6">
                         <article class="d-flex flex-column">
                             <div class="post-img">
-                                <img src="{{ asset('img/blog/blog-2.jpg') }}" alt="" class="img-fluid">
+                                <img src="{{ asset('img/cta-bg.jpg') }}" alt="" class="img-fluid">
                             </div>
                             <h2 class="title">
                                 <a href="{{ route('blogs-detail') }}">Nisi magni odit consequatur autem nulla dolorem</a>

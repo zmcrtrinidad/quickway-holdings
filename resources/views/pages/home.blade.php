@@ -30,7 +30,7 @@
             <h2>WHO ARE WE</h2>
         </div>
         <div class="row g-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="col-xl-5 img-bg" style="background-image: url('{{ asset('img/why-us-bg.jpg') }}')"></div>
+            <div class="col-xl-5 img-bg" style="background-image: url('{{ asset('img/cta-bg.jpg') }}')"></div>
             <div class="col-xl-7 slides  position-relative">
                 <div class="slides-1 swiper">
                     <div class="swiper-wrapper">
@@ -88,6 +88,26 @@
 
     </div>
 </section><!-- End Why Choose Us Section -->
+<!-- ======= Clients Section ======= -->
+<section id="clients" class="clients">
 
+    <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+            <h2>Our Sister Companies</h2>
+        </header>
+
+        <div class="clients-slider swiper">
+            <div class="swiper-wrapper align-items-center">
+                <div class="swiper-slide"><img src="{{ asset('img/companies/stronghold.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ asset('img/companies/sterling.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ asset('img/companies/milestone.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ asset('img/companies/bethel.png') }}" class="img-fluid" alt=""></div>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+
+</section><!-- End Clients Section -->
 
 @endsection

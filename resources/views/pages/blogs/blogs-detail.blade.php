@@ -21,7 +21,7 @@
             <div data-aos="fade-up" data-aos-delay="200">
                 <article class="blog-details">
                     <div class="post-img">
-                        <img src="{{ asset('img/blog/blog-1.jpg') }}" alt="" class="img-fluid">
+                        <img src="{{ asset('img/cta-bg.jpg') }}" alt="" class="img-fluid">
                     </div>
                     <h2 class="title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h2>
                     <div class="content">

@@ -19,8 +19,8 @@
 <section id="team" class="team">
     <div class="container" data-aos="fade-up">
         <div class="row gy-4">
-            <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                <div class="team-member">
+            <div class="col-lg-3 col-md-6 " data-aos="fade-up" data-aos-delay="100">
+                <div class="team-member ">
                     <div class="member-img">
                         <img src="{{ asset('img/team/team-1.jpg') }}" class="img-fluid" alt="">
                     </div>
