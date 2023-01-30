@@ -35,13 +35,13 @@
                 <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="300">
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-2022">
-                        <img src="{{ asset('img/portfolio/default-bg.png') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('img/portfolio/PDF.png') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>2022</h4>
                             <p>GIS - QHI</p>
 
-                            <a href="{{ asset('pdf/GIS_2022.pdf') }}" target="blank" title="More Details"
-                                class="details-link"><i class="bi bi-link-45deg"></i></a>
+                            <a href="{{ asset('pdf/GIS_2022.pdf') }}" target="blank" title="Click to Download"
+                                class="details-link"><i class="bi bi-box-arrow-down"></i></a>
 
 
                         </div>
