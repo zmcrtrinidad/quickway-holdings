@@ -37,7 +37,7 @@
                         </div>
                         <div class="member-info">
                             <h4>David P. Mercado, Jr</h4>
-                            <span>President</span>
+                            <span>Chairman</span>
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -72,7 +72,7 @@
                         </div>
                         <div class="member-info">
                             <h4>Romulo I. Delos Reyes, Jr</h4>
-                            <span>N/A</span>
+                            <span>President & General Manager </span>
                         </div>
                     </div>
                 </div><!-- End Team Member -->
