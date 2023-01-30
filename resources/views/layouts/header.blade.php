@@ -3,7 +3,7 @@
 
         <a href="{{ route('home') }}" class="logo d-flex align-items-center">
             <!-- Uncomment the line below if you also wish to use an image logo -->
-            <img src="{{ asset('img/QHI.png') }}" class="img-fluid" alt="">
+            <img src="{{ asset('img/QHI.png') }}" class="img-fluid" alt="" >
             <h1 class="d-flex align-items-center">Quickway Holdings, Inc.</h1>
         </a>
 
