@@ -2,7 +2,7 @@
 @section('title', 'Our Board of Directors')
 @section('content')
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('img/about-header.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('img/bldg.png') }}');">
         <div class="container position-relative d-flex flex-column align-items-center">
 
             <h2>Board Of Directors</h2>
@@ -18,22 +18,22 @@
     <section id="team" class="team">
         <div class="container" data-aos="fade-up">
             <div class="row gy-4 justify-content-center">
-                <div class="col-lg-3 col-md-6 " data-aos="fade-up" data-aos-delay="100">
+                {{-- <div class="col-lg-3 col-md-6 " data-aos="fade-up" data-aos-delay="100">
                     <div class="team-member ">
                         <div class="member-img">
                             <img src="{{ asset('img/BOD/MVM.jpg') }}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Ma. Victoria L. Mercado</h4>
-                            <span>Chairperson</span>
+                            <span>Director</span>
                         </div>
                     </div>
-                </div><!-- End Team Member -->
+                </div><!-- End Team Member --> --}}
 
                 <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{ asset('img/BOD/Blank.png') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('img/BOD/DPM.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>David P. Mercado, Jr</h4>
@@ -45,10 +45,11 @@
                 <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{ asset('img/BOD/Blank.png') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('img/BOD/AM.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Amiel M. Mercado</h4>
+                            <br/>
                             <span>Vice-Chairman & EVP</span>
                         </div>
                     </div>
@@ -57,7 +58,7 @@
                 <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{ asset('img/BOD/Blank.png') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('img/BOD/MPM.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Maria Pilar B. Mercado</h4>
@@ -72,14 +73,14 @@
                         </div>
                         <div class="member-info">
                             <h4>Romulo I. Delos Reyes, Jr</h4>
-                            <span>President & General Manager </span>
+                            <span>President and CEO </span>
                         </div>
                     </div>
                 </div><!-- End Team Member -->
                 <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{ asset('img/BOD/FHG.jpg') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('img/BOD/FHG.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="member-info">
                             <h4>Florentino H. Garces</h4>

@@ -56,7 +56,7 @@
                             velit.</li>
                         <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo
                             consequat.</li>
-                    </ul> 
+                    </ul>
         </div>
         </div>
         </div> --}}
@@ -73,8 +73,10 @@
                     <div class="icon flex-shrink-0"><i class="bi bi-briefcase" style="color: #f57813;"></i></div>
                     <div>
                         <h4 class="title"><a href="#" class="stretched-link">Our Mission</a></h4>
-                        {{-- <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi
-                            sint occaecati cupiditate non provident</p> --}}
+                        <p>Our goal is to generate returns for our shareholders through the acquisition, management, and
+                            growth of a well-diversified portfolio of subsidiary companies. We will pursue long-term success
+                            through smart investments, innovative business methods, and solid partnerships with our
+                            subsidiary companies.</p>
                     </div>
                 </div>
                 <!-- End Service Item -->
@@ -83,8 +85,10 @@
                     <div class="icon flex-shrink-0"><i class="bi bi-card-checklist" style="color: #15a04a;"></i></div>
                     <div>
                         <h4 class="title"><a href="#" class="stretched-link">Our Vision</a></h4>
-                        {{-- <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                            commodo consequat tarad limino ata</p> --}}
+                        <p>Our vision is to be a highly regarded holding company, known for our commitment to excellence and
+                            the prosperity of our subsidiary companies. We strive to provide an environment that encourages
+                            our subsidiary companies to reach their full potential, thereby creating value for our
+                            shareholders and promoting overall economic development.</p>
                     </div>
                 </div><!-- End Service Item -->
 
@@ -92,8 +96,11 @@
                     <div class="icon flex-shrink-0"><i class="bi bi-bar-chart" style="color: #d90769;"></i></div>
                     <div>
                         <h4 class="title"><a href="#" class="stretched-link">Values</a></h4>
-                        {{-- <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-                            eu fugiat nulla pariatur</p> --}}
+                        <p>Holding companies offer stability, support, and growth. They own a diversified portfolio of
+                            businesses, provide operational support to subsidiary companies, and expand through acquisitions
+                            and partnerships. This combination of values makes holding companies a compelling investment
+                            opportunity for those seeking to diversify their portfolios and invest in successful businesses.
+                        </p>
                     </div>
                 </div><!-- End Service Item -->
             </div>

@@ -2,7 +2,7 @@
 @section('title', 'Corporate Governance')
 @section('content')
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('img/about-header.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('img/bldg.png') }}');">
         <div class="container position-relative d-flex flex-column align-items-center">
 
             <h2>CORPORATE SOCIAL RESPONSIBILITIES</h2>
@@ -13,70 +13,174 @@
 
         </div>
     </div><!-- End Breadcrumbs -->
-    <!-- ======= Blog Section ======= -->
-    <section id="blog" class="blog">
-        <div class="container" data-aos="fade-up">
-            {{-- <div class="row g-5">
-                <div class="" data-aos="fade-up" data-aos-delay="200">
-                    <div class="row gy-5 posts-list">
-                        <div class="col-lg-6">
-                            <article class="d-flex flex-column">
-                                <div class="post-img">
-                                    <img src="{{ asset('img/cta-bg.jpg') }}" alt="" class="img-fluid">
-                                </div>
+
+
+    <br><br>
+    <h1 class="d-flex justify-content-center">News and Events</h1>
+    <section class="section">
+        <div class="container">
+            <div class="row mb-5">
+                {{-- Stronghold Start --}}
+                <div class="col-md-4 d-flex  align-items-stretch mt-3">
+                    <div class="card w-100 flex">
+                        <div class="d-flex align-items-center justify-content-center h-100 w-100 ">
+                            <img src="{{ asset('img/news_event/SICI_NE.jpg') }}" alt="" class="img-fluid">
+                        </div>
+                        <div class="card-body  d-flex align-items-end">
+                            <div class="card-body text-center ">
                                 <h2 class="title">
-                                    <a href="{{ route('csr-detail') }}">Dolorum optio tempore voluptas dignissimos cumque
-                                        fuga qui
-                                        quibusdam quia</a>
+                                    {{-- <a href="{{ route('csr-detail') }}">Stronghold Insurance Events </a> --}}
+                                    Stronghold Insurance
                                 </h2>
 
-                                <div class="content">
-                                    <p>
-                                        Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi
-                                        praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                                    </p>
-                                </div>
+                                {{-- <>Find out how our Stronghold Insurance Company has made a
+                                    positive impact on the
+                                    world
+                                    and discover our
+                                    commitment to sustainability and social responsibility. --}}
 
-                                <div class="read-more mt-auto align-self-end">
-                                    <a href="{{ route('csr-detail') }}">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
+                                <p>Get inspired by the stories of those who have made a difference in others' lives,
+                                    and learn how you can create a ripple effect of kindness.</p>
 
-                            </article>
-                        </div><!-- End post list item -->
+                                <br>
+                                <br>
 
-                        <div class="col-lg-6">
-                            <article class="d-flex flex-column">
-                                <div class="post-img">
-                                    <img src="{{ asset('img/cta-bg.jpg') }}" alt="" class="img-fluid">
-                                </div>
+
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <div class="read-more mt-auto d-flex justify-content-center">
+                                <a href="https://strongholdinsurance.com.ph/events" class="stretched-link"
+                                    target="_blank">Read More <i class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{-- END --}}
+
+                {{-- Sterling Start --}}
+                <div class="col-md-4 d-flex  align-items-stretch mt-3">
+                    <div class="card w-100 flex">
+                        <div class="d-flex  justify-content-center w-100 ">
+                            <img src="{{ asset('img/news_event/STER_NE.jpg') }}" alt="" class="img-fluid">
+                        </div>
+                        <div class="card-body  d-flex ">
+                            <div class="card-body text-center ">
                                 <h2 class="title">
-                                    <a href="{{ route('csr-detail') }}">Nisi magni odit consequatur autem nulla
-                                        dolorem</a>
+                                    {{-- <a href="{{ route('csr-detail') }}">Stronghold Insurance Events </a> --}}
+                                    Sterling Insurance
                                 </h2>
-                                <div class="content">
-                                    <p>
-                                        Incidunt voluptate sit temporibus aperiam. Quia vitae aut sint ullam quis illum
-                                        voluptatum et. Quo libero rerum voluptatem pariatur nam.
-                                    </p>
-                                </div>
 
-                                <div class="read-more mt-auto align-self-end">
-                                    <a href="{{ route('csr-detail') }}">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
+                                <p>Get an inside look at the magnificent events and the vital responsibilities that
+                                    made it all possible</p>
+                                <br>
+                                <br>
 
-                            </article>
-                        </div><!-- End post list item -->
-                    </div><!-- End blog posts list -->
-                    {{-- <div class="blog-pagination">
-                    <ul class="justify-content-center">
-                        <li><a href="#">1</a></li>
-                        <li class="active"><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                    </ul>
-                </div><!-- End blog pagination --> --}}
+
+                            </div>
+
+
+                        </div>
+                        <div class="card-footer">
+                            <div class="read-more mt-auto d-flex justify-content-center">
+                                <a href="https://sterling-insurance.com.ph/sici/events/" class="stretched-link"
+                                    target="_blank">Read More <i class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </div>
+
+                        {{-- <footer>
+                            <div class="read-more mt-auto d-flex justify-content-center">
+                                <a href="" class="st">Read More <i
+                                        class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </footer> --}}
+                    </div>
+                </div>
+                {{-- End --}}
+
+                {{-- Milestone Start --}}
+                <div class="col-md-4 d-flex  align-items-stretch mt-3">
+                    <div class="card w-100 flex">
+                        <div class="d-flex  justify-content-center w-100 ">
+                            <img src="{{ asset('img/news_event/MS_NE.jpg') }}" alt="" class="img-fluid">
+                        </div>
+                        <div class="card-body  d-flex ">
+                            <div class="card-body text-center ">
+                                <h2 class="title">
+                                    {{-- <a href="{{ route('csr-detail') }}">Stronghold Insurance Events </a> --}}
+                                    Milestone Insurance
+                                </h2>
+
+                                <p>Explore the impressive achievements and the crucial roles that led to its success.</p>
+                                <br>
+                                <br>
+
+
+                            </div>
+
+                        </div>
+
+                        <div class="card-footer">
+                            <div class="read-more mt-auto d-flex justify-content-center">
+                                <a href="https://www.milestoneguaranty.com/wp2/events/" class="stretched-link"
+                                    target="_blank">Read More <i class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{-- End --}}
+
+                {{-- Bethel Start --}}
+                <div class="col-md-4 d-flex  align-items-stretch mt-3">
+                    <div class="card w-100 flex">
+                        <div class="d-flex  justify-content-center w-100 ">
+                            <img src="{{ asset('img/news_event/BET_NE.jpg') }}" alt="" class="img-fluid">
+                        </div>
+                        <div class="card-body  d-flex ">
+                            <div class="card-body text-center ">
+                                <h2 class="title">
+                                    {{-- <a href="{{ route('csr-detail') }}">Stronghold Insurance Events </a> --}}
+                                    Bethel Insurance
+                                </h2>
+
+                                <p>Learn about the remarkable accomplishments and the responsibilities that made it
+                                    possible</p>
+                                <br>
+                                <br>
+
+
+                            </div>
+
+                        </div>
+
+                        <div class="card-footer">
+                            <div class="read-more mt-auto d-flex justify-content-center">
+                                <a href="https://bethelgen.com/news" class="stretched-link" target="_blank">Read More <i
+                                        class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{-- End --}}
+
+
+
+            </div>
         </div>
-        </div> --}}
+    </section>
+    {{-- End Blog Section --}}
+
+    {{-- Start Sterling Section --}}
+    <section class="section">
+        <div class="container">
+            <div class="row mb-5">
+
+            </div>
         </div>
-    </section><!-- End Blog Section -->
+    </section>
+    {{-- End Blog Section --}}
+
+
+
 
 @endsection

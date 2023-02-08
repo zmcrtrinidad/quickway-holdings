@@ -8,8 +8,9 @@
                     <a href="index.html" class="logo d-flex align-items-center">
                         <span>Quickway Holdings, Inc.</span>
                     </a>
-                    {{-- <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita
-                        valies darta donna mare fermentum iaculis eu non diam phasellus.</p> --}}
+                    <p></p>
+                    <p>Our innovative holdings set the standard for success. Empower your business and hold onto a
+                        brighter future.</p>
                     {{-- Social Media links --}}
                     {{-- <div class="social-links d-flex  mt-3">
                         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -25,8 +26,9 @@
                         <li><i class="bi bi-dash"></i> <a href="{{ route('home') }}">Home</a></li>
                         <li><i class="bi bi-dash"></i> <a href="{{ route('about-us') }}">About us</a></li>
                         {{-- <li><i class="bi bi-dash"></i> <a href="#">Services</a></li> --}}
-                        <li><i class="bi bi-dash"></i> <a href="#">Terms of service</a></li>
-                        <li><i class="bi bi-dash"></i> <a href="#">Privacy policy</a></li>
+                        <li><i class="bi bi-dash"></i> <a href="{{ route('terms-of-service') }}">Terms of service</a>
+                        </li>
+                        <li><i class="bi bi-dash"></i> <a href="{{ route('privacy-policy') }}">Privacy policy</a></li>
                     </ul>
                 </div>
 
@@ -36,9 +38,9 @@
                         6/F Zeta II Annex Building, <br>
                         191 Salcedo Street,<br>
                         Legaspi Village, Makati City <br><br>
-                        <strong>Phone:</strong> +63 <br>
+                        <strong>Phone:</strong> 8893-0025-26 or 8893-3794 <br>
                         {{-- gawan daw ng email  --}}
-                        <strong>Email:</strong> info.quickwayholdings@email.com<br>
+                        <strong>Email:</strong> info@quickwayholdings.com<br>
                     </p>
 
                 </div>

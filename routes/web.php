@@ -21,7 +21,9 @@ Route::view('/management', 'pages.about-us.management')->name('management');
 Route::view('/corporate-governance', 'pages.corporate')->name('corporate-governance');
 Route::view('/investors', 'pages.investors')->name('investors');
 Route::view('/disclosure', 'pages.disclosure')->name('disclosure');
-
+// TERMS OF SERVICE
+Route::view('/terms-of-service', 'pages.terms-of-service')->name('terms-of-service');
+Route::view('/privacy-policy', 'pages.privacy-policy')->name('privacy-policy');
 // corporate social responsibility
 Route::view('/csr', 'pages.csr.csr')->name('csr');
 Route::view('/csr-detail', 'pages.csr.csr-detail')->name('csr-detail');

@@ -2,7 +2,7 @@
 @section('title', 'Our Group of Companies')
 @section('content')
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('img/about-header.jpg') }}');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('{{ asset('img/bldg.png') }}');">
         <div class="container position-relative d-flex flex-column align-items-center">
 
             <h2>Group of Companies</h2>
@@ -42,6 +42,17 @@
                     <div class="swiper-slide">
                         <a href="https://www.bethelgen.com/" target="_blank"><img
                                 src="{{ asset('img/companies/bethel.png') }}" class="img-fluid" alt=""></a>
+                    </div>
+                    {{-- One Stop Shop --}}
+                    <div class="swiper-slide">
+                        <a href=""><img src="{{ asset('img/companies/1SS.png') }}" class="img-fluid"
+                                alt=""></a>
+                    </div>
+
+                    {{-- Craftworks Autoshop Inc --}}
+                    <div class="swiper-slide">
+                        <a href=""><img src="{{ asset('img/companies/craftworks.png') }}" class="img-fluid"
+                                alt=""></a>
                     </div>
                 </div>
                 <div class="swiper-pagination"></div>
