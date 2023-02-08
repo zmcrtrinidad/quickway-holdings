@@ -117,7 +117,7 @@
                 <div class="col-lg-6 text-center">
                     <h3>Need Anything?</h3>
                     <p>We are here to assist. Contact us by phone or email.</p>
-                    <a class="cta-btn" href="#">Contact Us</a>
+                    <a class="cta-btn" href="{{ route('contact-us') }}">Contact Us</a>
                 </div>
             </div>
         </div>
