@@ -39,7 +39,8 @@
             name,
             the type of computer and technical information such as the Operating System and the Internet Service Providers
             utilized.</p>
-
+        <br>
+        <br>
         <h3><b>User Representations</b></h3>
         <p>By using the Site, you represent and warrant that: (1) you have the legal capacity and you agree to comply with
             the Terms and Conditions; (2) you will not access the Site through automated or non-human means, whether through
@@ -58,7 +59,8 @@
             Once the transaction has been paid, it cannot be cancelled. All payments made are final. We are not held
             responsible for any refusal or reversal of payments, which shall be discussed between you and your credit card
             provider.</p>
-
+        <br>
+        <br>
         <h3><b>Restrictions</b></h3>
         <p>You may not access or use the Site for any purpose other than that for which we make the Site available. You are
             specifically restricted from all of the following:
@@ -69,7 +71,8 @@
             2. Use the Site to advertise or offer services.
 
             3. Engage in any data mining, robots, or similar data gathering and extraction tools.</p>
-
+        <br>
+        <br>
         <h3><b>Contribution License</b></h3>
         <p>By posting your Contributions to any part of the Site, you automatically grant, and you represent and warrant
             that you have the right to grant, to us an unrestricted, non-exclusive, and license to host, use, copy,
@@ -77,6 +80,8 @@
             transmit, and distribute such Contributions for any purpose, commercial, advertising, or otherwise, and to
             prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize
             sublicenses of the foregoing.</p>
+        <br>
+        <br>
         <h3><b>Submissions</b></h3>
         <p>You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information
             regarding the Site (“Submissions”) provided by you to us are non-confidential and shall become our sole
@@ -85,6 +90,8 @@
             without acknowledgement or compensation to you. You hereby waive all moral rights to any such Submissions, and
             you hereby warrant that any such Submissions are original with you or that you have the right to submit such
             Submissions.</p>
+        <br>
+        <br>
         <h3><b>Third-Party Websites and Content</b></h3>
         <p>The Site may contain (or you may be sent via the Site) links to other websites (“Third-Party Websites”) as well
             as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications,
@@ -98,7 +105,8 @@
             thereof by us. If you decide to leave the Site and access the Third-Party Websites or to use or install any
             Third-Party Content, you do so at your own risk, and you should be aware these Terms and Conditions no longer
             govern.</p>
-
+        <br>
+        <br>
         <h3><b>Modifications and Interruptions</b></h3>
         <p>We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our
             sole discretion without notice. We will not be liable to you or any third party for any modification, change,
@@ -112,12 +120,14 @@
             Site. Nothing in these Terms and Conditions will be construed to obligate us to maintain and support the Site or
             to supply any corrections, updates, or releases in connection therewith.
         </p>
-
+        <br>
+        <br>
         <h3><b>Governing Law and Jurisdiction</b></h3>
         <p>These Terms will be governed by and interpreted in accordance with the laws of the State of Philippines, and you
             submit to the non-exclusive jurisdiction of the state and federal courts located in Philippines for the
             resolution of any disputes.</p>
-
+        <br>
+        <br>
         <h3><b>Disclaimer</b></h3>
         <p>The Site is provided on as-is and as-available basis. You agree that your use of the Site and our services will
             be at your sole risk to the fullest extent permitted by law. We disclaim all warranties, express or implied, in
@@ -133,24 +143,29 @@
             advertising, and we will not be a party to or in any way be responsible for monitoring any transaction between
             you and any third-party providers of products or services. As with the purchase of a product or service through
             any medium or in any environment, you should use your best judgment and exercise caution where appropriate.</p>
-
+        <br>
+        <br>
         <h3><b>Limitations of Liability</b></h3>
         <p>In no event shall Quickway Holdings, Inc., nor any of its officers, directors and employees, shall be
             held liable for anything arising out of or in any way connected with your use of this Site whether such
             liability is under contract. Quickway Holdings, Inc., including its officers, directors and employees
             shall not be held liable for any indirect, consequential or special liability arising out of or in any way
             related to your use of this Site.</p>
-
+        <br>
+        <br>
         <h3><b>Indemnification</b></h3>
         <p>You hereby indemnify to the fullest extent Quickway Holdings, Inc. from and against any and/or all
             liabilities, costs, demands, causes of action, damages and expenses arising in any way related to your breach of
             any of the provisions of these Terms.</p>
-
+        <br>
+        <br>
         <h3><b>Contact Us</b></h3>
         <p>In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site,
             please contact us at:
 
         </p>
+        <br>
+        <br>
         <br>
         <span>
             <b>Quickway Holdings, Inc.
