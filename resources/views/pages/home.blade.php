@@ -15,7 +15,7 @@
                         </p>
                     </blockquote>
                     <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
-                        <a href="{{ route('about-us') }}" class="btn-get-started">Get Started</a>
+                        <a href="{{ route('about-us') }}" class="btn-get-started">Learn More</a>
                         {{-- <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ"
                         class="glightbox btn-watch-video d-flex align-items-center"><i
                             class="bi bi-play-circle"></i><span>Watch Video</span></a> --}}

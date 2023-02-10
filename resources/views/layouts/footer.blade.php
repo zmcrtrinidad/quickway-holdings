@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row gy-4">
                 <div class="col-lg-5 col-md-12 footer-info">
-                    <a href="index.html" class="logo d-flex align-items-center">
+                    <a href="index.html" class="logo  align-items-center">
                         <span>Quickway Holdings, Inc.</span>
                     </a>
                     <p></p>
