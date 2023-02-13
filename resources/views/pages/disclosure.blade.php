@@ -23,17 +23,53 @@
                 data-portfolio-sort="original-order">
 
                 <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
-                    <li data-filter=".filter-2016" class="filter-active">2016</li>
-                    <li data-filter=".filter-2017">2017</li>
-                    <li data-filter=".filter-2018">2018</li>
-                    <li data-filter=".filter-2019">2019</li>
-                    <li data-filter=".filter-2020">2020</li>
+
+                    <li data-filter=".filter-2018-2019" class="filter-active">2018 -2019 </li>
+                    <li data-filter=".filter-2019-2020">2019-2020</li>
                     <li data-filter=".filter-2021">2021</li>
                     <li data-filter=".filter-2022">2022</li>
                 </ul><!-- End Portfolio Filters -->
 
                 <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="300">
 
+
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-2018-2019">
+                        <img src="{{ asset('img/portfolio/PDF.png') }}" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4> 2018 - 2019</h4>
+                            <p>Financial Statement</p>
+
+                            <a href="{{ asset('pdf/QUICKWAY_FS_2018-2019.pdf') }}" target="blank" title="Click to Download"
+                                class="details-link"><i class="bi bi-box-arrow-down"></i></a>
+
+
+                        </div>
+                    </div><!-- End Portfolio Item -->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-2019-2020">
+                        <img src="{{ asset('img/portfolio/PDF.png') }}" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>2019-2020</h4>
+                            <p>Financial Statement</p>
+
+                            <a href="{{ asset('pdf/QUICKWAY_FS_2019-2020.pdf') }}" target="blank" title="Click to Download"
+                                class="details-link"><i class="bi bi-box-arrow-down"></i></a>
+
+
+                        </div>
+                    </div><!-- End Portfolio Item -->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-2021">
+                        <img src="{{ asset('img/portfolio/PDF.png') }}" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>2021</h4>
+                            <p>Financial Statement</p>
+
+                            <a href="{{ asset('pdf/QUICKWAY_FS-2021.pdf') }}" target="blank" title="Click to Download"
+                                class="details-link"><i class="bi bi-box-arrow-down"></i></a>
+
+
+                        </div>
+                    </div><!-- End Portfolio Item -->
                     <div class="col-lg-4 col-md-6 portfolio-item filter-2022">
                         <img src="{{ asset('img/portfolio/PDF.png') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
@@ -46,6 +82,8 @@
 
                         </div>
                     </div><!-- End Portfolio Item -->
+
+
 
                     {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-2017">
                         <img src="{{ asset('img/portfolio/default-bg.png') }}" class="img-fluid" alt="">
