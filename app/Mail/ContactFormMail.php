@@ -65,7 +65,7 @@ class ContactFormMail extends Mailable
     public function envelope()
     {
         return new Envelope(
-            subject: 'Inquiry from Quickway Website',
+            subject: 'Inquiry',
         );
     }
 

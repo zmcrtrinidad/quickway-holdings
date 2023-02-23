@@ -32,10 +32,12 @@
                         <table cellpadding="0" cellspacing="0" border="0" width="600">
                             <tr>
                                 <td align="center" style="font-size: 24px; font-weight: bold; padding-bottom: 20px;">
-                                    Subject: {{ $asignatura }} </td>
+                                    Quickway Holdings, Inc.
+                                </td>
                             </tr>
                             <tr>
                                 <td style="padding: 20px; background-color: #ffffff;">
+                                    <p>Subject: {{ $asignatura }}</p>
                                     <p>Name: {{ $name }},</p>
                                     <p> Email: {{ $email }}</p>
 
