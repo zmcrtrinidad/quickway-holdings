@@ -51,7 +51,7 @@
 
                     {{-- Craftworks Autoshop Inc --}}
                     <div class="swiper-slide">
-                        <a href=""><img src="{{ asset('img/companies/craftworks.png') }}" class="img-fluid"
+                        <a href=""><img src="{{ asset('img/companies/craftsworksV2.png') }}" class="img-fluid"
                                 alt=""></a>
                     </div>
                 </div>

@@ -42,7 +42,7 @@
                         <i class="bi bi-phone flex-shrink-0"></i>
                         <div>
                             <h4>Call:</h4>
-                            <p>+63</p>
+                            <p>8893-0025-26 or 8893-3794</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -50,7 +50,8 @@
 
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
 
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                    <form action="{{ route('contact.send') }}" method="post" role="form" class="php-email-form">
+                        @csrf
                         <div class="row">
                             <div class="col-md-6 form-group">
                                 <input type="text" name="name" class="form-control" id="name"
@@ -85,4 +86,8 @@
 
         </div>
     </section><!-- End Contact Section -->
+
+    {{-- <p>Name: {{ $name }}</p>
+    <p>Email: {{ $email }}</p>
+    <p>Message: {{ $message }}</p> --}}
 @endsection

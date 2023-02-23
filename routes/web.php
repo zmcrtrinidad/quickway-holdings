@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -28,6 +29,11 @@ Route::view('/privacy-policy', 'pages.privacy-policy')->name('privacy-policy');
 Route::view('/csr', 'pages.csr.csr')->name('csr');
 Route::view('/csr-detail', 'pages.csr.csr-detail')->name('csr-detail');
 Route::view('/contact-us', 'pages.contact')->name('contact-us');
+
+
+
+
+Route::post('/contact', [ContactController::class, 'send'])->name('contact.send');
 
 
 
