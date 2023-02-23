@@ -20,8 +20,8 @@
                         <td style="vertical-align: top; padding-bottom:5px;" align="center">
                             {{-- <img src="http://strongholdinsurance.com.ph/assets/img/2logo.png" alt="Stronghold Logo"
                                 width="300px" height="120px" style="border:none;"> --}}
-                            <img src="https://quickwayholdings.com/public/img/QHI.png" alt="Quickway Logo"
-                                width="200" height="100" style="border:none;">
+                            <img src="{{ asset('img/QHI.png') }}" alt="Quickway Logo" width="200" height="100"
+                                style="border:none;">
                         </td>
                     </tr>
                 </tbody>
